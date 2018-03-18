@@ -12,12 +12,13 @@ ONLYOFFICE文档服务器是一个免费的在线协作办公套件，包括word
 我的其他资料可供参考：主要是界面汉化，中文字体，二次开发，局域网中的安装和部署等细节。
 
 [如何在 Windows 上 使用 ONLYOFFICE 协同编辑文档](http://blog.csdn.net/hotqin888/article/details/79337881)
+
 [onlyoffice的优势和特点](https://www.onlyoffice.com/document-editor-comparison.aspx)
 
 [onlyoffice与ms office online的对比](https://help.onlyoffice.com/products/files/doceditor.aspx?fileid=4476630&doc=ZEFoK2lNMW1ZQjhRNjNyY2JnWk5MaVAvTUU4dmdhV3ZHWGtOL01GUStydz0_IjQ0NzY2MzAi0&_ga=2.247409280.564294813.1518263805-199484730.1518174023)
 
 golang语言开发的文档管理：增删改
-![engineercms onlyoffice](https://user-images.githubusercontent.com/10678867/36413347-e5d75f26-1658-11e8-8818-daaeec4746e5.jpg)
+![engineercms onlyoffice](https://user-images.githubusercontent.com/10678867/37555500-f7148af6-2a22-11e8-860f-df0ef044d781.png)
 
 word文件在线实时协作效果
 ![onlyoffice word](https://user-images.githubusercontent.com/10678867/36413270-9fc09c00-1658-11e8-817e-3e58021a8253.jpg)
