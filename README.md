@@ -28,3 +28,7 @@ powerpoint文件在线实时协作效果
 
 excel文件在线实时协作效果
 ![onlyoffice excel](https://user-images.githubusercontent.com/10678867/36413285-ab0dcd8a-1658-11e8-9a11-4c94709efea8.jpg)
+
+word历史版本控制
+![word_history](https://user-images.githubusercontent.com/10678867/37910779-eb9f9c54-3140-11e8-969c-8677abc67dc4.png)
+
