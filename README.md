@@ -1,7 +1,7 @@
 # ONLYOFFICE-golang
-基于golang go语言（beego框架）下的ONLYOFFICE Document Server二次开发。主要功能为文档的管理（上传、列表、删除等）和根据ONLYOFFICE Document Server中的文档进行更新和回调。这个项目来自3xxx/EngineerCMS，完整的代码也可参考EngineerCMS。
+基于golang go语言（beego框架）下的ONLYOFFICE Document Server二次开发。主要功能为文档的管理（上传、列表、删除等）和根据ONLYOFFICE Document Server中的文档进行更新和回调、历史版本数据管理。这个项目来自3xxx/EngineerCMS，完整的代码也可参考EngineerCMS。
 
-Second development of ONLYOFFICE Document Server based on the golang go language (beego framework). The main functions are Document management (upload, list, delete, etc.) and update and callback based on the documents in the ONLYOFFICE Document Server. This project is extracted from 3xxx/EngineerCMS.
+Second development of ONLYOFFICE Document Server based on the golang go language (beego framework). The main functions are Document management (upload, list, delete, etc.) and update and callback based on the documents in the ONLYOFFICE Document Server,history changes data manage. This project is extracted from 3xxx/EngineerCMS.
 
 ONLYOFFICE Document Server is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
 
