@@ -9,7 +9,8 @@ ONLYOFFICE文档服务器是一个免费的在线协作办公套件，包括word
 
 我很喜欢ONLYOFFICE，它功能强大，只要在局域网内任意一台电脑安装一下，全局的人都能享受多人在线编辑文档。能完全取代桌面程序office的word/excel/ppt,所以我对它进行了二次开发，方便大家在windows环境下部署和使用强大的实时文档协作，改变传统的汇总文档：投标，工作总结，工作量统计，工程进度汇报等，月报等，会议纪要是否有意见，直接发个链接给大家，有意见需要修改的，直接在上面改了，不用再通过邮件发回给汇总负责人，效率大大提高，工作方式也优雅很多。
 
-我的其他资料可供参考：主要是界面汉化，中文字体，二次开发，局域网中的安装和部署等细节。
+我的其他资料可供参考：主要是界面汉化，中文字体，二次开发（仅仅是文档管理：增删改权限设置），局域网中的安装和部署等细节。
+网盘共享文件地址：![https://pan.baidu.com/s/1gf0ucuR](https://pan.baidu.com/s/1gf0ucuR)
 
 [如何在 Windows 上 使用 ONLYOFFICE 协同编辑文档](http://blog.csdn.net/hotqin888/article/details/79337881)
 
@@ -19,6 +20,14 @@ ONLYOFFICE文档服务器是一个免费的在线协作办公套件，包括word
 
 golang语言开发的文档管理：增删改权限设置
 ![engineercms onlyoffice](https://user-images.githubusercontent.com/10678867/38768484-0a55e06e-4027-11e8-9871-fc65e1686408.png)
+
+文档的用户权限和角色（用户组）权限
+登录用户，对于已经进行了权限设置的文档，将根据权限数据库，比对用户名，当与用户有关时，就显示相对应的权限（编辑、评论、只读），当都与登录用户无关时，则显示拒绝访问；
+如果是用户自己上传的，则允许编辑。
+对于未登录用户，已经设置了权限的文档，都将显示拒绝访问；
+对于登录和未登录用户，未进行权限设置的文档，则显示允许编辑。
+![snap2](https://user-images.githubusercontent.com/10678867/38768561-61f67742-4028-11e8-96f5-9bdc24ca4d71.png)
+![snap3](https://user-images.githubusercontent.com/10678867/38768560-61b14398-4028-11e8-9c2a-501b5142064f.png)
 
 word文件在线实时协作效果
 ![onlyoffice word](https://user-images.githubusercontent.com/10678867/36413270-9fc09c00-1658-11e8-817e-3e58021a8253.jpg)
