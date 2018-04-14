@@ -23,7 +23,14 @@ func init() {
 	beego.Router("/onlyoffice/deletedoc", &controllers.OnlyController{}, "*:DeleteDoc")
 	//修改
 	beego.Router("/onlyoffice/updatedoc", &controllers.OnlyController{}, "*:UpdateDoc")
-
-	//下载doc
+	//onlyoffice页面下载doc
 	beego.Router("/attachment/onlyoffice/*", &controllers.OnlyController{}, "get:DownloadDoc")
+	//文档管理页面下载doc
+	beego.Router("/onlyoffice/download/:id:string", &controllers.OnlyController{}, "get:Download")
+	// beego.Router("/onlyoffice/changes", &controllers.OnlyController{}, "post:ChangesUrl")
+	//*****onlyoffice document权限
+	//添加用户和角色权限
+	beego.Router("/onlyoffice/addpermission", &controllers.OnlyController{}, "post:Addpermission")
+	//取得文档的用户和角色权限列表
+	beego.Router("/onlyoffice/getpermission", &controllers.OnlyController{}, "get:Getpermission")
 }
