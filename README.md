@@ -17,8 +17,8 @@ ONLYOFFICE文档服务器是一个免费的在线协作办公套件，包括word
 
 [onlyoffice与ms office online的对比](https://help.onlyoffice.com/products/files/doceditor.aspx?fileid=4476630&doc=ZEFoK2lNMW1ZQjhRNjNyY2JnWk5MaVAvTUU4dmdhV3ZHWGtOL01GUStydz0_IjQ0NzY2MzAi0&_ga=2.247409280.564294813.1518263805-199484730.1518174023)
 
-golang语言开发的文档管理：增删改
-![engineercms onlyoffice](https://user-images.githubusercontent.com/10678867/37555500-f7148af6-2a22-11e8-860f-df0ef044d781.png)
+golang语言开发的文档管理：增删改权限设置
+![engineercms onlyoffice](https://user-images.githubusercontent.com/10678867/38768484-0a55e06e-4027-11e8-9871-fc65e1686408.png)
 
 word文件在线实时协作效果
 ![onlyoffice word](https://user-images.githubusercontent.com/10678867/36413270-9fc09c00-1658-11e8-817e-3e58021a8253.jpg)
