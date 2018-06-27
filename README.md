@@ -5,7 +5,7 @@ Second development of ONLYOFFICE Document Server based on the golang go language
 
 ONLYOFFICE Document Server is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
 
-ONLYOFFICE文档服务器是一个免费的在线协作办公套件，包括word文本、电子表格和演示文稿的查看器和编辑器，完全兼容office Open XML格式:.docx、.xlsx、.pptx，并实时支持协作编辑。
+ONLYOFFICE文档服务器是一个免费的在线协作办公套件，包括word文本、电子表格和演示文稿的查看器和编辑器，完全兼容office Open XML格式:.docx、.xlsx、.pptx，WPS格式：wps,et,dps并实时支持协作编辑。
 
 我很喜欢ONLYOFFICE，它功能强大，只要在局域网内任意一台电脑安装一下，全局的人都能享受多人在线编辑文档。能完全取代桌面程序office的word/excel/ppt,所以我对它进行了二次开发，方便大家在windows环境下部署和使用强大的实时文档协作，改变传统的汇总文档：投标，工作总结，工作量统计，工程进度汇报等，月报等，会议纪要是否有意见，直接发个链接给大家，有意见需要修改的，直接在上面改了，不用再通过邮件发回给汇总负责人，效率大大提高，工作方式也优雅很多。
 
